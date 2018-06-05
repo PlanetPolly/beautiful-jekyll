@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to spend time with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Polly P. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm a driven researcher
+- I'm extremely loyal to dream
 
 What else do you need?
 
