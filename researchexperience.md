@@ -1,24 +1,24 @@
 ---
 layout: page
-title: Research experience - project I‘ve involved
+title: Research experience
 subtitle: I'm a viable candidate
 ---
 
-#### PRP
+### PRP
 
 
 
-#### MoS2
+### MoS2
 
 
 
-#### Organic chemistry
+### Organic chemistry
 
 
 
-#### 2D metal
+### 2D metal
 
 
 
-#### Lanthanides
+### Lanthanides
 
