@@ -28,26 +28,6 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
 
 
 
-### Research experience - project I involved
-
-##### PRP
-
-
-
-##### MoS2
-
-
-
-##### Organic chemistry
-
-
-
-##### 2D metal
-
-
-
-##### Lanthanides
-
 
 
 
