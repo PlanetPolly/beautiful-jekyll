@@ -24,7 +24,7 @@ description: A virtual proof that here's a unique one!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Research Experience: "researchexperience"
+  Research: "researchexperience"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
