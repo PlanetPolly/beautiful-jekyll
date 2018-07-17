@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Lei Pan
+title: Lei Pan 
 
 # Short description of your site
 description: A virtual proof that here's an interesting one!
@@ -53,9 +53,6 @@ footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
-<iframe src="http://www.nicetool.net/embed/elements.html" width="100%" height="450px;" scrolling="no" style="border:0px;">
-</iframe>
-
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
@@ -77,7 +74,7 @@ author:
 social-network-links:
   rss: true
   email: "leipan@sjtu.edu.cn"
-  facebook: leipan
+  facebook: polly
   github: planetpolly
   twitter: polly
 #  reddit: yourname
