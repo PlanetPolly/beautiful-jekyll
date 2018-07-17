@@ -4,6 +4,12 @@ title: Research
 subtitle: I'm a viable candidate
 ---
 
+## Research Interests 
+
+
+
+## Research Experience
+
 ### PRP
 
 In the freshmen year, I carried out the first student project on fluorescence probe with another student. It's a student-induced project. Based on some published papers, we designed the probe could connect with some specific saccharide and release a fluorescent part rather than connect and then fluorcent, in order to let the probe tell different kinds of saccharides. Our design worked. It was the first time I did pratical cobphrehensive research on a compound. Drivenly, I self-learned and successfully did some computational analysis, stucture simulation，and made a rational machanism model. In the process, it was fould that this novel complex probe could selectively recognize carbohydrate and hydroxycarboxylic acid compound, further, we fould an exception sodium gluconate, which lacks the fluorescence quenching enhancement effect.
