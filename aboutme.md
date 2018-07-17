@@ -1,32 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to spend time with me
+subtitle: There's no one I'd rather be than me.
 ---
 
-My name is Lei. I have the following qualities:
+I’m “Polly” Lei Pan, (Chinese: 潘磊), now a senior undergrad in **Chemistry** at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). Currently, I am a **research intern** at University of Illinois at Urbana-Champaign. I am a member of **Chemistry Honored Class**, [Zhiyuan College](http://zhiyuan.sjtu.edu.cn/goto/en)
 
-- I'm a student from XXX ( XX honors program), majoring in chemistry.
-- I want to be an excellent researcher
-- I'm extremely loyal to the academic dream
+### A short video:
 
-What else do you need?
-
-### My history
+### My calling
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions. 
 
-### Research Interests
 
 
-
-
-
-### Honors
-
-
-
-
+### Curriculum vitae
 
 
 
