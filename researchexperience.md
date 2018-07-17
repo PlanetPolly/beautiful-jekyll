@@ -14,7 +14,7 @@ My current research interests lie in the field of **Artificial Photosynthesis**,
 
 **Research Intern** at **The Roger Adams Laboratory** , [University of Illinois at Urbana-Champaign](http://illinois.edu/)
 
-Mentored by Prof. Hong Yang on Oxygen evolution reaction and the electrochemical activity descriptors*.
+Mentored by Prof. Hong Yang on Oxygen Evolution Reaction and the Electrochemical Activity Descriptors*.
 
 
 
@@ -22,7 +22,7 @@ Mentored by Prof. Hong Yang on Oxygen evolution reaction and the electrochemical
 
 **Undergraduate Researcher** at **SJTU College of Material engineering** , [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
-*Mentored by Prof. Jianbo Wu on two-dimensional metals.*
+*Mentored by Prof. Jianbo Wu on Two-Dimensional Metals.*
 
 
 
@@ -30,7 +30,7 @@ Mentored by Prof. Hong Yang on Oxygen evolution reaction and the electrochemical
 
 **Undergraduate Researcher** at **College of Chemistry** , [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). 
 
-*Mentored by Prof. Shuyu Zhang on semi-Pinacol rearrangement*
+*Mentored by Prof. Shuyu Zhang on Semi-Pinacol Rearrangement*
 
 
 
@@ -38,7 +38,7 @@ Mentored by Prof. Hong Yang on Oxygen evolution reaction and the electrochemical
 
 **Undergraduate Researcher** at **College of Chemistry**
 
-*Mentored by Prof. Xuefeng Qian on molybdenum disulfide and its application in HER*
+*Mentored by Prof. Xuefeng Qian on Molybdenum Disulfide and Its Application in HER*
 
 
 
@@ -46,4 +46,4 @@ Mentored by Prof. Hong Yang on Oxygen evolution reaction and the electrochemical
 
 **Member of PRP Program** at **College of Chemistry**
 
-Collaborate on Interdisciplinary Research Project of  Fluorescence Biochemical Probe.*
+*Collaborate on Interdisciplinary Research Project of  Fluorescence Biochemical Probe.*
