@@ -10,38 +10,30 @@ My current research interests lie in the field of **Artificial Photosynthesis**,
 
 ## Experience
 
-July 2017 — Jan. 2018
-
+*July 2017 — Jan. 2018*
 **Research Intern** at **The Roger Adams Laboratory** , [University of Illinois at Urbana-Champaign](http://illinois.edu/)
-
-*Mentored by Prof. Hong Yang on Oxygen evolution reaction and the electrochemical activity descriptors*.
-
+Mentored by Prof. Hong Yang on Oxygen evolution reaction and the electrochemical activity descriptors*.
 
 
-Nov. 2016 — Present
 
-**Undergraduate Researcher** at **SJTU College of Material engineering** , [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). 
+*Nov. 2016 — Present*
+**Undergraduate Researcher** at **SJTU College of Material engineering** , [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 *Mentored by Prof. Jianbo Wu on two-dimensional metals.*
 
 
 
-July 2015 — Oct. 2016
-
+*July 2015 — Oct. 2016*
 **Undergraduate Researcher** at **College of Chemistry** , [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). 
 *Mentored by Prof. Shuyu Zhang on semi-Pinacol rearrangement*
 
 
 
-Jan. 2015 — July. 2015
-
+*Jan. 2015 — July. 2015*
 **Undergraduate Researcher** at **College of Chemistry**
-
 *Mentored by Prof. Xuefeng Qian on molybdenum disulfide and its application in HER*
 
 
 
-Apr. 2015 — Mar. 2016
-
+*Apr. 2015 — Mar. 2016*
 **Member of PRP Program** at **College of Chemistry**
-
-*Collaborate on Interdisciplinary Research Project of  Fluorescence Biochemical Probe.*
+Collaborate on Interdisciplinary Research Project of  Fluorescence Biochemical Probe.*
