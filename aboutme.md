@@ -4,7 +4,7 @@ title: About me
 subtitle: There's no one I'd rather be than me.
 ---
 
-I’m “Polly” Lei Pan, (Chinese: 潘磊), now a senior undergrad in **Chemistry** at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). Currently, I am a **research intern** at University of Illinois at Urbana-Champaign. I am a member of **Chemistry Honored Class**, [Zhiyuan College](http://zhiyuan.sjtu.edu.cn/goto/en)
+I’m “Polly” Lei Pan, (Chinese: ), now a senior undergrad in **Chemistry** at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). Currently, I am a **research intern** at University of Illinois at Urbana-Champaign. I am a member of **Chemistry Honored Class**, [Zhiyuan College](http://zhiyuan.sjtu.edu.cn/goto/en)
 
 ### A short video:
 
