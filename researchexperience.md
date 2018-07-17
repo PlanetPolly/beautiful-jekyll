@@ -11,9 +11,7 @@ My current research interests lie in the field of **Artificial Photosynthesis**,
 ## Experience
 
 *July 2017 — Jan. 2018* 
-
 **Research Intern**at **The Roger Adams Laboratory** , [UIUC](http://illinois.edu/)
-
 *Mentored by Prof. Hong Yang on Oxygen Evolution Reaction and the Electrochemical Activity Descriptors*.
 
 
