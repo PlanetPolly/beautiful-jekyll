@@ -19,9 +19,7 @@ My current research interests lie in the field of **Artificial Photosynthesis**,
 
 
 *Nov. 2016 — Present* 
-
-**Undergraduate Researcher** at **SJTU College of Material engineering** , [SJTU](http://en.sjtu.edu.cn/)
-
+**Undergraduate Researcher** at **SJTU College of Material engineering** , [SJTU](http://en.sjtu.edu.cn/)<br>
 *Mentored by Prof. Jianbo Wu on Two-Dimensional Metals.*
 
 
@@ -29,9 +27,7 @@ My current research interests lie in the field of **Artificial Photosynthesis**,
 
 
 *July 2015 — Oct. 2016*
-
 **Undergraduate Researcher** at **College of Chemistry** 
-
 *Mentored by Prof. Shuyu Zhang on Semi-Pinacol Rearrangement*.
 
 
@@ -39,9 +35,7 @@ My current research interests lie in the field of **Artificial Photosynthesis**,
 
 
 *Jan. 2015 — July. 2015*
-
 **Undergraduate Researcher** at **College of Chemistry**
-
 *Mentored by Prof. Xuefeng Qian on Molybdenum Disulfide and Its Application in HER*.
 
 
@@ -49,7 +43,5 @@ My current research interests lie in the field of **Artificial Photosynthesis**,
 
 
 *Apr. 2015 — Mar. 2016*
-
 **Member of PRP Program** at **College of Chemistry**
-
 *Collaborate on Interdisciplinary Research Project of  Fluorescence Biochemical Probe.*
