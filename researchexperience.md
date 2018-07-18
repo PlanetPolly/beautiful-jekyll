@@ -19,7 +19,7 @@ My current research interests lie in the field of **Artificial Photosynthesis**,
 
 
 *Nov. 2016 — Present* <br>
-**Undergraduate Researcher** at ** College of Material engineering** , [SJTU](http://en.sjtu.edu.cn/)<br>
+**Undergraduate Researcher** at **College of Material engineering** , [SJTU](http://en.sjtu.edu.cn/)<br>
 *Mentored by Prof. Jianbo Wu on Two-Dimensional Metals.*
 
 
