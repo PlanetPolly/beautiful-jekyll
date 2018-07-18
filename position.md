@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Positions
-subtitle: It is not the voice that commands the story: it is the ear.
+title: About me
+subtitle: There's no one I'd rather be than me.
 ---
 
 **The Trainee Journalist at the *Global Science* magazine (the Chinese edition of *Scientific American*)**
