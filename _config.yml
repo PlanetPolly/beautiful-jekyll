@@ -25,7 +25,7 @@ description: A virtual proof that here's an interesting one!
 navbar-links:
   About Me: "aboutme"
   Research: "researchexperience"
-  Positions: "aboutme"
+  Positions: "position"
   Talks: "talks"
   Day Dream: "day dreams"
 
