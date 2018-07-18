@@ -8,18 +8,15 @@ subtitle: It is not the voice that commands the story: it is the ear.
 
 
 
-### The Trainee Journalist at the *Global Science* magazine (the Chinese edition of *Scientific American*)
+**The Trainee Journalist at the *Global Science* magazine (the Chinese edition of *Scientific American*)**
 
-### The teaching assistant of the Honors Course hosted by University of Michigan and Shanghai Jiao Tong University
+**The teaching assistant of the Honors Course hosted by University of Michigan and Shanghai Jiao Tong University**
 
+**The Member of Shupin student association**
 
-### The Member of Shupin student association
+**The head organizer of the *"Surpass Union"* Program**
 
-
-### The head organizer of the *"Surpass Union"* Program
-
-
-### The certificated one finishing the Nature masterclass online course
+**The certificated one finishing the Nature masterclass online course**
 
 
 
