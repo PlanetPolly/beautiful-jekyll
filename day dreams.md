@@ -4,7 +4,7 @@ title: Day dream
 subtitle: There's no one I'd rather be than me.
 ---
 
-![day dream](/img/boy.jpg)
+![Alt text](/img/boy.jpg)
 
 The courses I've taken
 
