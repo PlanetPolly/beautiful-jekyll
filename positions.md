@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Positions
-subtitle: It is not the voice that commands the story: it is the ear.
-image: /img/boy.jpg
+title: About me
+subtitle: There's no one I'd rather be than me.
 ---
 
 I've been reading books of old, the legends and the myth
