@@ -1,6 +1,7 @@
 ---
 title: Positions
 subtitle: It is not the voice that commands the story: it is the ear.
+image: /img/boy.jpg
 ---
 
 **The Trainee Journalist at the *Global Science* magazine (the Chinese edition of *Scientific American*)**
