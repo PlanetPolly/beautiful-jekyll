@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: page
 title: Positions
 subtitle: It is not the voice that commands the story: it is the ear.
 image: /img/boy.jpg
 ---
+
+I've been reading books of old, the legends and the myth
 
 **The Trainee Journalist at the *Global Science* magazine (the Chinese edition of *Scientific American*)**
 
