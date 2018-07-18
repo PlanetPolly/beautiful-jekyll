@@ -50,7 +50,7 @@ Now I call give some key words from these attempts: FIND MY OWN WAY, ADVENTROUS 
 
 
 
-### Curriculum vitae
+### [Curriculum vitae](/files/CV Lei.pdf)
 
 
 
