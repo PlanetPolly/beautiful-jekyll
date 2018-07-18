@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Positions
 subtitle: It is not the voice that commands the story: it is the ear.
 image: /img/boy.jpg
