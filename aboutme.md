@@ -17,7 +17,8 @@ I’m “Polly” Lei Pan, (Chinese: ), now a senior undergrad in **Chemistry** 
 
 
 ### My calling
-"I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me."--Ralph<br/>
+> "I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me."--Ralph<br/>
+
 I required myself to define "me" here. No matter how concise keywords will appear, I'd like to shape myself by telling 3 things I attempted to do. 
 
 **The first attempt**:<br>
