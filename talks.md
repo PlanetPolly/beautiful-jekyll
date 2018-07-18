@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Talks
-subtitle: It is not the voice that commands the story: it is the ear.
+subtitle: It's not the voice that commands the story, it's the ear.
 ---
+
 
 The presentations I've made
 

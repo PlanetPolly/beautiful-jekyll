@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Day dreams
-subtitle: It is not the voice that commands the story: it is the ear.
+title: Day dream
+subtitle: There's no one I'd rather be than me.
 ---
-###What's I have
+
 
 The courses I've taken
 
