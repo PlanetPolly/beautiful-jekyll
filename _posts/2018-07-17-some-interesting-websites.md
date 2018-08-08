@@ -3,7 +3,7 @@ layout: post
 title: Some interesting websites
 ---
 
-Enter the link address and enjoy the time using them. They are the lightest softwares, the fastest sharing links, the most possible morphology for future systems.
+Click the links and enjoy the time using them. They are the lightest softwares, the fastest sharing links, the most possible morphology for the future systems.
 
 ### Link Starts
 
@@ -16,6 +16,12 @@ Enter the link address and enjoy the time using them. They are the lightest soft
 
 
 ### Open eyes looking through the windows
+Taste the profound speech from Franklin Roosevelt <br>
+Appreciate the masterpieces from Italo Calvino<br>
+Learn the advanced ideas from Richard Phillips Feynman<br>
+……<br>
+We embrace the time and it returns the access to all the world.<br>
+
 
 
 ### Let science merry art
