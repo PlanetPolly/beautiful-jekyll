@@ -6,13 +6,14 @@ subtitle: There's no one I'd rather be than me.
 
 ![Alt text](/img/boy.jpg)
 
-The courses I've taken
 
-The skill I've learnt
+### With more power comes more responsibility
 
-### What I want to do
+### The ultimate life I'd like to lead 
 
-### How to use what I have
+### Science, technology and life
+
+
 
 
 

@@ -10,11 +10,13 @@ My current research interests lie in the field of **Artificial Photosynthesis**,
 
 ## Experience
 
+*Jan. 2019 — present* <br>
+**Graduate student**at **Willard Henry Dow Laboratory** , [Umich](http://umich.edu/)<br>
+*Mentored by Prof. Charles McCrory on Self-assembled monolayer*.
+
 *July 2017 — Jan. 2018* <br>
 **Research Intern**at **The Roger Adams Laboratory** , [UIUC](http://illinois.edu/)<br>
 *Mentored by Prof. Hong Yang on Oxygen Evolution Reaction and the Electrochemical Activity Descriptors*.
-
-
 
 
 

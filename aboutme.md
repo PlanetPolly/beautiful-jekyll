@@ -8,7 +8,7 @@ Hello, I’m Lei Pan, now a master student at the University of Michigan. majori
 
 ### A short video:  If I know the end of my life.
 
-<iframe  width="560" height="315" src="\taikongren.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe  width="560" height="315" src="\video\taikongren.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### Why me!
 > *"I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me."--Ralph*
