@@ -11,7 +11,7 @@ Besides those required in daily work, all the kinds of softwares we might use co
 * News & Books
 * Writing & Editing
 
-<img src="\image\kanshanshu.jpg" width="1000px">
+<img src="\image\kanshanshu.jpg" width="500px">
 
 Every downloading platform also adapt the similar categories, for your easy findind. But what determines your preference is the design, including the function design and the GUI design, isn't it? And even the size, the launch speed? I a big fan of Apple, as well as its simplist style -- let science marry art. When I want to experience a new video player, I would based on the older one's function to search for its alternatives. The website [alternativeto](https://alternativeto.net) will definately offer the best assistance. Remember some useful keyword, like <u>portable, extension</u>, etc.
 
@@ -24,7 +24,7 @@ It's usual that a new version comes with more funtions, one software could satis
 ### Only keep one for the funtion.
 And another problem would come up if two softwares have the same function. Now you need to carefully think about your habit and make the choice: delete one or assign seperate part for each one. Otherwise it'll take time for you to determine which one when opening a file. Take it easy. No one enforce you to avoid all the overlapping.
 
-Everyone can find a software, but you can find the software.
+<i>Everyone can find a software, but you can find the software</i>.
 
 
 
