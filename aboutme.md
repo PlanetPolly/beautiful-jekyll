@@ -4,13 +4,13 @@ title: About me
 subtitle: There's no one I'd rather be than me.
 ---
 
-I’m “Polly” Lei Pan, (Chinese: ), now a senior undergrad in **Chemistry** at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). Currently, I am a **research intern** at [University of Illinois at Urbana-Champaign](http://illinois.edu/). I am a member of **Chemistry Honored Class**, [Zhiyuan College](http://zhiyuan.sjtu.edu.cn/goto/en)
+Hello, I’m Lei Pan, now a master student at the University of Michigan. majoring in **Chemistry**. I accomplished my undergraduate study at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). Specially, I've been a member of **Chemistry Honored Class**, [Zhiyuan College](http://zhiyuan.sjtu.edu.cn/goto/en) During the third year, I've been to [University of Illinois at Urbana-Champaign](http://illinois.edu/), as a visiting scholar. The extensive undergraduate research experience is just a common step to my academic dream.
 
 ### A short video:  If I know the end of my life.
 
-<iframe  width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+<iframe  width="560" height="315" src="\taikongren.mp4" frameborder="0" allowfullscreen></iframe>
 
-### My calling
+### Why me!
 > *"I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me."--Ralph*
 
 I required myself to define "me" here. No matter how concise keywords will appear, I'd like to shape myself by telling 3 things I attempted to do. 
