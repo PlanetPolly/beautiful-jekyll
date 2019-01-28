@@ -11,7 +11,7 @@ Besides those required in daily work, all the kinds of softwares we might use co
 * News & Books
 * Writing & Editing
 
-![liukanshan](./image/kanshanshu.jpg)
+![liukanshan](http://hbimg.b0.upaiyun.com/43f5114cfbd8d936cddb640b6b1839abc13ef32419555-tbzFDb_fw658)
 
 Every downloading platform also adapt the similar categories, for your easy findind. But what determines your preference is the design, including the function design and the GUI design, isn't it? And even the size, the launch speed? I a big fan of Apple, as well as its simplist style -- let science marry art. When I want to experience a new video player, I would based on the older one's function to search for its alternatives. The website [alternativeto](https://alternativeto.net) will definately offer the best assistance. Remember some useful keyword, like <u>portable, extension</u>, etc.
 
