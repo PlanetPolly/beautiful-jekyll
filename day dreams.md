@@ -7,11 +7,10 @@ subtitle: There's no one I'd rather be than me.
 ![Alt text](/img/boy.jpg)
 
 
-### With more power comes more responsibility
-
-### The ultimate life I'd like to lead 
-
-### Science, technology and life
+#### To let nature take its course
+#### The most primitive behaviors in study
+#### Not go to somewhere, but leave here
+#### Exchange of equal values
 
 
 
