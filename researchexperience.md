@@ -6,11 +6,12 @@ subtitle: That's not bad!
 
 ## Research Interests 
 
-Current research interests lie in the field of **Artificial Photosynthesis**, including OER (oxygen evolution reaction), HER (hydrogen evolution reaction, MOR (methanol oxidation reaction), FAOR (formic acid oxidation reaction), etc., as well as their mechanisms in materials' formation, electrochemistry procedures.
+ **Artificial Photosynthesis**: OER (oxygen evolution reaction), HER (hydrogen evolution reaction, etc.
+ **Dynamic Self-assembly**, **Nanocatalyst**
 
 ## Experience
 More detailed than my curriculum vitae <br>
-Sometimes I think it's absurd to have such an extensive experience, some professor even just regarded me as a visiting student; I appreciate it because that's how I cross the threshold of doing research.
+*Sometimes I think it's absurd to have such an extensive experience, some professor even just regarded me as a visiting student; I appreciate it because that's how I cross the threshold of doing research.*
 
 *Jan. 2019 — present* <br>
 **Graduate student** at **Willard Henry Dow Laboratory** , [Umich](http://umich.edu/)<br>
