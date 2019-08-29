@@ -17,7 +17,7 @@ baseurl: ""
 title: Lei Pan 
 
 # Short description of your site
-description: A virtual proof that she is interesting!
+description: An invisible city
 
 # --- Navigation bar options --- #
 
@@ -71,7 +71,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "leipan@sjtu.edu.cn"
+  email: "leipan@umich.edu"
   facebook: polly
   github: planetpolly
   twitter: polly
