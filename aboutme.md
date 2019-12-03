@@ -10,7 +10,7 @@ Hello, I’m Lei Pan, a master student at [University of Michigan](https://umich
 ### Why me!
 > *"I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me."--Ralph*
 
-<img src="https://github.com/PlanetPolly/PlanetPolly.github.io/blob/master/img/sam.png?raw=true" width="500px"></img>
+<img src="https://github.com/PlanetPolly/PlanetPolly.github.io/blob/master/img/sam.png?raw=true" width="500px">
 
 My story with chemistry formally started at a magic moment during high school. At that moment I seemed to be touched by some profound logic in chemistry. For instance, although the irreversibility of the 2nd Law of thermodynamics frustrated me, I can alter the energy’s pathway to derive different work from the same initial and final states. It’s an art of process. This kind of thinking not only enhanced my comprehension in Chemistry but also benefited my acquirement of other subjects. I considered this thinking as basis of my excellent performance in high school and in undergraduate. 
 

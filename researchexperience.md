@@ -22,7 +22,7 @@ subtitle: That's not bad!
 **Research Intern** at **The Roger Adams Laboratory** , [UIUC](http://illinois.edu/)<br>
 *Mentored by Prof. [Hong Yang](https://scholar.google.com/citations?hl=zh-CN&user=WPntzc4AAAAJ) on Oxygen Evolution Reaction and the Electrochemical Activity Descriptors*.<br>
 
-![](img/yang.png)
+<img src="https://cdn.britannica.com/30/158530-050-3BB8C4C8/radii-coordination-number-metals-atomic.jpg?raw=true" width="500px">
 
 *Nov. 2016 — Present* <br>
 **Undergraduate Researcher** at **College of Material engineering** , [SJTU](http://en.sjtu.edu.cn/)<br>
