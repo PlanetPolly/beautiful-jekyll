@@ -9,8 +9,7 @@ subtitle: That's not bad!
 **Artificial photosynthesis, Energy Related Nano Materials, Chemistry of Surface and Interface**
 
 ## Experience
-More detailed than my curriculum vitae <br>
-*Sometimes I think it's absurd to have such an extensive experience, some professor even just regarded me as a visiting student; I appreciate it because that's how I cross the threshold of doing research.*
+*I have conducted research in various fields including biosensors, organic total synthesis, electrocatalysis and interface science. My variety of research experiences have given me a rigorous intuition about combining knowledge from different subfields. This intuition helps me keep an open mind when I encounter problems.*
 
 *Jan. 2019 — present* <br>
 **Graduate student** at **Willard Henry Dow Laboratory** , [Umich](http://umich.edu/)<br>

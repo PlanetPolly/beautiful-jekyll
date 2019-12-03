@@ -10,20 +10,19 @@ Hello, I’m Lei Pan, a master student at [University of Michigan](), majoring i
 
 <iframe  width="560" height="315" src="\video\taikongren.mp4" frameborder="0" allowfullscreen></iframe>
 
-I just want to show my media skills. This MAD are made from still pictures.
+I self-learned Adobe Premiere and After Effect.
 
 
 ### Why me!
 > *"I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me."--Ralph*
 
-**One can only save himself.**
+My story with chemistry formally started at a magic moment during high school. At that moment I seemed to be touched by some profound logic in chemistry. For instance, although the irreversibility of the 2nd Law of thermodynamics frustrated me, I can alter the energy’s pathway to derive different work from the same initial and final states. It’s an art of process. This kind of thinking not only enhanced my comprehension in Chemistry but also benefited my acquirement of other subjects. I considered this thinking as basis of my excellent performance in high school and in undergraduate. 
+
+During high school, I registered a national high school chemistry contest. To prepare for the contest, I self-learned undergraduate-level inorganic chemistry and organic chemistry. My world of atoms was broadened that an emerging passion made me spare no time on those thick textbooks. When facing an unknown brand-new question, I employed all the accessible aspects to understand and figure out it. It was a good return that I won a great place in the competition, which contributed to my admission to Shanghai Jiao Tong University. I chose to major in chemistry, to study the fantastic atomic structures, to solve some substantive problems. That’s my first step in entering the academic society. 
+
+I love chemistry because I love the world of molecules where atoms can be assembled in fantastic new structures. My main research interests focus on developing new fuel cell catalysts, understanding electrochemical processes at interfaces, and designing novel-structured functional nanomaterials. My previous research experiences include developing and characterizing 2-D nanostructured catalysts for fuel cell reactions during my undergraduate research at Shanghai Jiao Tong University (SJTU) in China, and studying the reductive desorption properties of self-assembled monolayers (SAMs) on metal surfaces in an effort to develop new, more reductively-stable catalyst linkers to surfaces during my Masters research at the University of Michigan (U of M). I am motivated by these projects because of the need to discover more-effective catalysts and stable functional nanostructures that will contribute to solving the energy crisis. My passion for research and its application to real world problems motivates me to apply for a Ph.D. studying nanomaterial for electrocatalysis and energy storage.
 
 **Background of background**:<br>
-* My parents have never imagined their daughter would enter college and go abroad. What corresponds to them is to learn living skills, stay in my hometown and struggle against life. 
-* Now I am among the top students in China. "Why am I here?" I replied "At every turning point, I chose to jump at the chance, driven by my adventurous inherent." More, I'm afraid I'm just pretending someone who is excellent. 
-
-**Common background stories**:<br>
-* I solved a 3\*3\*3 Rubik's Cube without any solution guide when I was ten years old. 
 * I read literary works for 5 hours per week. My favorite writers are Italo Calvino, Jorge Luis Borges, Stefan Zweig, George Owell.
 * I construct a database to record piece information. Now it has over 320,000 words, varying from professional experiments to coding, even including origami. 
 * I acquire fundamental lab skills in organic chemistry, biosensor, nano catalyst, self assembled monolayer researches. I can operate XPS, TEM, NMR, XRD. I can calculate the structure with Gassian, material studio. I've already can work as an independent researcher when I was an undergraduate.
