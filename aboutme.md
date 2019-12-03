@@ -8,7 +8,7 @@ Hello, I’m Lei Pan, a master student at [University of Michigan](https://umich
 
 ### A short music video, made by Adobe After Effect
 
-<iframe  width="560" height="315" src="\video\taikongren.mp4" frameborder="0"  allowfullscreen autoplay="false"></iframe>
+<video  width="560" height="315" src="\video\taikongren.mp4" frameborder="0"  allowfullscreen autoplay="false"></video>
 
 *Title: Lonly Trip*<br>
 I self-learned Adobe Premiere and After Effect.
