@@ -13,18 +13,20 @@ subtitle: That's not bad!
 
 *Jan. 2019 — present* <br>
 **Graduate student** at **Willard Henry Dow Laboratory** , [Umich](http://umich.edu/)<br>
-*Mentored by Prof. [Charles McCrory]() on Self-assembled monolayer*.
+*Mentored by Prof. [Charles McCrory](https://scholar.google.com/citations?hl=zh-CN&user=gFH5HogAAAAJ) on Self-assembled monolayer*.
 
 *July 2017 — Jan. 2018* <br>
 **Research Intern** at **The Roger Adams Laboratory** , [UIUC](http://illinois.edu/)<br>
-*Mentored by Prof. [Hong Yang]() on Oxygen Evolution Reaction and the Electrochemical Activity Descriptors*.
+*Mentored by Prof. [Hong Yang](https://scholar.google.com/citations?hl=zh-CN&user=WPntzc4AAAAJ) on Oxygen Evolution Reaction and the Electrochemical Activity Descriptors*.
 
 
 
 *Nov. 2016 — Present* <br>
 **Undergraduate Researcher** at **College of Material engineering** , [SJTU](http://en.sjtu.edu.cn/)<br>
-*Mentored by Prof. [Jianbo Wu]() on Two-Dimensional nano-structures.*
+*Mentored by Prof. [Jianbo Wu](https://scholar.google.com/citations?hl=zh-CN&user=iQ_WfvsAAAAJ) on Two-Dimensional nano-structures.*<br>
+**Publication**: CHEN, W., MA, Y., LI, F., **PAN, L.** et al. Strong Electronic Interaction of Amorphous Fe<sub>2</sub>O<sub>3</sub> Nanosheets with Single‐Atom Pt toward Enhanced Carbon Monoxide Oxidation. *Advanced Functional Materials* 29, 1904278 (2019).[link](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201904278)
 
+![C:\Users\hp\Documents\GitHub\PlanetPolly.github.io\img\2d.png](img/2d)
 
 
 
