@@ -24,7 +24,7 @@ More detailed than my curriculum vitae <br>
 
 *Nov. 2016 — Present* <br>
 **Undergraduate Researcher** at **College of Material engineering** , [SJTU](http://en.sjtu.edu.cn/)<br>
-*Mentored by Prof. [Jianbo Wu]() on Two-Dimensional Metals.*
+*Mentored by Prof. [Jianbo Wu]() on Two-Dimensional nano-structures.*
 
 
 
