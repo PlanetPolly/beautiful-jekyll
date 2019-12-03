@@ -10,6 +10,8 @@ Hello, I’m Lei Pan, a master student at [University of Michigan](https://umich
 ### Why me!
 > *"I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me."--Ralph*
 
+<img src="{{ site.baseurl }}/img/sam.png" />
+
 My story with chemistry formally started at a magic moment during high school. At that moment I seemed to be touched by some profound logic in chemistry. For instance, although the irreversibility of the 2nd Law of thermodynamics frustrated me, I can alter the energy’s pathway to derive different work from the same initial and final states. It’s an art of process. This kind of thinking not only enhanced my comprehension in Chemistry but also benefited my acquirement of other subjects. I considered this thinking as basis of my excellent performance in high school and in undergraduate. 
 
 During high school, I registered a national high school chemistry contest. To prepare for the contest, I self-learned undergraduate-level inorganic chemistry and organic chemistry. My world of atoms was broadened that an emerging passion made me spare no time on those thick textbooks. When facing an unknown brand-new question, I employed all the accessible aspects to understand and figure out it. It was a good return that I won a great place in the competition, which contributed to my admission to Shanghai Jiao Tong University. I chose to major in chemistry, to study the fantastic atomic structures, to solve some substantive problems. That’s my first step in entering the academic society. 
