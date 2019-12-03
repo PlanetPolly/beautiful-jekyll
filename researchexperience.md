@@ -13,7 +13,10 @@ subtitle: That's not bad!
 
 *Jan. 2019 — present* <br>
 **Graduate student** at **Willard Henry Dow Laboratory** , [Umich](http://umich.edu/)<br>
-*Mentored by Prof. [Charles McCrory](https://scholar.google.com/citations?hl=zh-CN&user=gFH5HogAAAAJ) on Self-assembled monolayer*.
+*Mentored by Prof. [Charles McCrory](https://scholar.google.com/citations?hl=zh-CN&user=gFH5HogAAAAJ) on Reductive Desorption of Mixed Self-assembled monolayer*.
+
+![\img\msam.png](img/msam.png)
+
 
 *July 2017 — Jan. 2018* <br>
 **Research Intern** at **The Roger Adams Laboratory** , [UIUC](http://illinois.edu/)<br>
