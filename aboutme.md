@@ -27,7 +27,6 @@ I just want to show my media skills. This MAD are made from still pictures.
 * I read literary works for 5 hours per week. My favorite writers are Italo Calvino, Jorge Luis Borges, Stefan Zweig, George Owell.
 * I construct a database to record piece information. Now it has over 320,000 words, varying from professional experiments to coding, even including origami. 
 * I acquire fundamental lab skills in organic chemistry, biosensor, nano catalyst, self assembled monolayer researches. I can operate XPS, TEM, NMR, XRD. I can calculate the structure with Gassian, material studio. I've already can work as an independent researcher when I was an undergraduate.
-* I failed many times because of a same reason. I'm bad.
 
 [Curriculum vitae](/files/Lei CV.pdf)
 

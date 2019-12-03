@@ -6,8 +6,7 @@ subtitle: That's not bad!
 
 ## Research Interests 
 
- **Artificial Photosynthesis**: OER (oxygen evolution reaction), HER (hydrogen evolution reaction, etc.
- **Dynamic Self-assembly**, **Nanocatalyst**
+**Artificial photosynthesis, Energy Related Nano Materials, Chemistry of Surface and Interface**
 
 ## Experience
 More detailed than my curriculum vitae <br>
