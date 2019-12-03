@@ -6,13 +6,6 @@ subtitle: There's no one I'd rather be than me.
 
 Hello, I’m Lei Pan, a master student at [University of Michigan](https://umich.edu/), majoring in **Chemistry**. I accomplished my undergraduate study at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I've been a member of **Chemistry Honored Program**, [Zhiyuan College](http://zhiyuan.sjtu.edu.cn/goto/en). During the third year in undergradute, I went to [University of Illinois at Urbana-Champaign](http://illinois.edu/) for half year as a visiting scholar. I have extensive undergraduate research experience, which is just a common step to my academic dream.
 
-### A short music video, made by Adobe After Effect
-
-<video controls="controls" width="560" height="315" src="\video\taikongren.mp4" frameborder="0" allowfullscreen autoplay="false"></video>
-
-*Title: Lonly Trip*<br>
-I self-learned Adobe Premiere and After Effect.
-
 
 ### Why me!
 > *"I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me."--Ralph*
