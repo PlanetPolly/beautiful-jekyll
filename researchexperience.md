@@ -26,7 +26,7 @@ subtitle: That's not bad!
 *Mentored by Prof. [Jianbo Wu](https://scholar.google.com/citations?hl=zh-CN&user=iQ_WfvsAAAAJ) on Two-Dimensional nano-structures.*<br>
 **Publication**: CHEN, W., MA, Y., LI, F., **PAN, L.** et al. Strong Electronic Interaction of Amorphous Fe<sub>2</sub>O<sub>3</sub> Nanosheets with Single‐Atom Pt toward Enhanced Carbon Monoxide Oxidation. *Advanced Functional Materials* 29, 1904278 (2019).[link](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201904278)
 
-![C:\Users\hp\Documents\GitHub\PlanetPolly.github.io\img\2d.png](img/2d)
+![\img\2d.png](img/2d)
 
 
 
