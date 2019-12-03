@@ -4,11 +4,11 @@ title: About me
 subtitle: There's no one I'd rather be than me.
 ---
 
-Hello, I’m Lei Pan, a master student at [University of Michigan](), majoring in **Chemistry**. I accomplished my undergraduate study at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I've been a member of **Chemistry Honored Program**, [Zhiyuan College](http://zhiyuan.sjtu.edu.cn/goto/en). During the third year in undergradute, I went to [University of Illinois at Urbana-Champaign](http://illinois.edu/) for half year as a visiting scholar. I have extensive undergraduate research experience, which is just a common step to my academic dream.
+Hello, I’m Lei Pan, a master student at [University of Michigan](umich.edu), majoring in **Chemistry**. I accomplished my undergraduate study at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I've been a member of **Chemistry Honored Program**, [Zhiyuan College](http://zhiyuan.sjtu.edu.cn/goto/en). During the third year in undergradute, I went to [University of Illinois at Urbana-Champaign](http://illinois.edu/) for half year as a visiting scholar. I have extensive undergraduate research experience, which is just a common step to my academic dream.
 
-### A short video:  If I know the end of my life.
+### A short video:  Lonely Trip
 
-<iframe  width="560" height="315" src="\video\taikongren.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe  width="560" height="315" src="\video\taikongren.mp4" frameborder="0"  autoplay="false" allowfullscreen></iframe>
 
 I self-learned Adobe Premiere and After Effect.
 
