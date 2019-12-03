@@ -12,26 +12,27 @@ Always, you can read the leadership and reading, writing capacity behind my work
 * Looked through the state-of-the-art researches on top journal and organize a small essay introducing the paper. 
 
 
-**The teaching assistant of the Honors Course hosted by University of Michigan and Shanghai Jiao Tong University**
+**Teaching assistant of the Honors Course hosted by University of Michigan and Shanghai Jiao Tong University**
 
-* They are too excellent to turn to a TA for help
+* Introduction to Biophysics
+* Introduction to Spectroscopy
 * Prepared for GSI OET on 08/16/2019. I found in the USA, students may encounter more  unexpected problems besides understanding course content
 * TA serves the professor and students, speaking is the most important factor
 
 
-**The Member of Shupin student association**
+**Member of Shupin student association**
 
 * Loyalty
 * Historical
 * Take from society and return to society
 
-**The head organizer of the *"Surpass Union"* Program**
+**Head organizer of the *"Surpass Union"* Program**
 
 * Course project, persevered over one year
 * helped juniors improve their academic performance and provided guides on coursework and applications
 * Report video (in Chinese)
 
-**The certificated one finishing the Nature masterclass online course**
+**Certificated on finishing the Nature masterclass online course**
 
 * Systematically learn academic writing
 * Different people, different views
