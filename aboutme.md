@@ -4,11 +4,11 @@ title: About me
 subtitle: There's no one I'd rather be than me.
 ---
 
-Hello, I’m Lei Pan, a master student at [University of Michigan](https://umich.edu/), majoring in **Chemistry**. I accomplished my undergraduate study at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I've been a member of **Chemistry Honored Program**, [Zhiyuan College](http://zhiyuan.sjtu.edu.cn/goto/en). During the third year in undergradute, I went to [University of Illinois at Urbana-Champaign](http://illinois.edu/) for half year as a visiting scholar. I have extensive undergraduate research experience, which is just a common step to my academic dream.
+Hello, I’m Lei Pan, a master student at [University of Michigan](https://umich.edu/), majoring in **Chemistry**. I accomplished my undergraduate study at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I've been a member of **Chemistry Honored Program**, [Zhiyuan College](http://zhiyuan.sjtu.edu.cn/goto/en). During my third undergraduate year, I went to [University of Illinois at Urbana-Champaign](http://illinois.edu/) for half year as a visiting scholar. I have extensive undergraduate research experiences, which are just common steps to my academic dream.
 
 
 ### Why me!
-> *"I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me."--Ralph*
+> "I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me."-- *Wreck-It Ralph*
 
 <img src="https://github.com/PlanetPolly/PlanetPolly.github.io/blob/master/img/sam.png?raw=true" width="500px">
 
@@ -22,8 +22,8 @@ I love chemistry because I love the world of molecules where atoms can be assemb
 
 **Background of background**:<br>
 * I read literary works for 5 hours per week. My favorite writers are Italo Calvino, Jorge Luis Borges, Stefan Zweig, George Owell.
-* I construct a database to record piece information. Now it has over 320,000 words, varying from professional experiments to coding, even including origami. 
-* I acquire fundamental lab skills in organic chemistry, biosensor, nano catalyst, self assembled monolayer researches. I can operate XPS, TEM, NMR, XRD. I can calculate the structure with Gassian, material studio. I've already can work as an independent researcher when I was an undergraduate.
+* I construct a database to record piece information. Now it has over 320,000 words, varying from professional experiments to coding, even including origami design. 
+* I self-learned basic computational skills using Gaussian 03W and Material Studio. I can independently operate XPS, TEM, NMR, XRD. 
 
 [Curriculum vitae](/files/Lei CV.pdf)
 
