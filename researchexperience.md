@@ -16,6 +16,12 @@ subtitle: That's not bad!
 *Mentored by Prof. [Charles McCrory](https://scholar.google.com/citations?hl=zh-CN&user=gFH5HogAAAAJ) on Reductive Desorption of Mixed Self-assembled monolayer*.
 
 ![\img\msam.png](img/msam.png)
+* The mismatching between desorption onset potential and turning point of extent change might be caused by the bulky ferrocene-capped tail group, which makes it more likely to leave the surface than decanethiol.
+* Applying Cl-terminated thiol instead of Ferrocene-capped thiol. Cl-thiol was synthesized by hydrolysis of thiourea.
+* X-ray photoelectron spectroscopy (XPS) was used to investigate the changing extent of Cl-terminated thiol before and after reductive desorption.
+* Cl-terminated thiol shows poor solubility in ethanol, hard to form mixed SAMs with decanethiol in ethanol.
+* A phase separation occurred in mixed SAMs prepared in chloroform. 
+* For SAMs prepared in DCM, it might form an evenly blended phase when χ=0.5.
 
 
 *July 2017 — Jan. 2018* <br>
