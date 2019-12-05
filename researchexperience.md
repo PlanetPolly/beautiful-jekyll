@@ -30,7 +30,7 @@ subtitle: That's not bad!
 **Publication**: CHEN, W., MA, Y., LI, F., **PAN, L.** et al. Strong Electronic Interaction of Amorphous Fe<sub>2</sub>O<sub>3</sub> Nanosheets with Single‐Atom Pt toward Enhanced Carbon Monoxide Oxidation. *Advanced Functional Materials* 29, 1904278 (2019). [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201904278)
 
 ![\img\2d.png](img/2d)
-
+*The TEM images of 2D metal samples obtained by solvothermal methods, (a)(b)PdFe (1:18); (c)(d) PtCo (1:9); (e) PtSn (1:9); (f)PdSn (1:9); (g) PtV (1:9); (h) PdCo (1:9)*
 
 
 
