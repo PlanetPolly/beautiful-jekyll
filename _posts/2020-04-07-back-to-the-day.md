@@ -1,6 +1,6 @@
 ---
-layout:post
-title:上过去的课
+layout: post
+title: 上过去的课
 ---
 《西南联大英文课》
 
