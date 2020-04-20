@@ -17,8 +17,8 @@ title: Spacedesk 创造触屏电脑的简单方式
 
 手机上打开，首先在setting中设置好分辨率（选手机的还是电脑的）。然后回到主界面，连接primary drive。
 
-电脑上win+p可以调整两个屏幕或者多个屏幕之间的关系。duplicate——触屏效果，extend——第二屏幕适合展示。
+电脑上win+p可以调整两个屏幕或者多个屏幕之间的关系。duplicate——触屏效果+遥控器，extend——第二屏幕适合展示。
 
-软件本身的setting可以好好探索一下，尤其是多多设备的支持。另外在两个屏幕之间的响应略有延迟。
+软件本身的setting等待好好探索，尤其是对多设备的支持。另外在两个屏幕之间的响应略有延迟。
 
 ![clipboard](https://i.imgur.com/EWxQZKO.png)
