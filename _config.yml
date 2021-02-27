@@ -70,11 +70,8 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "leipan@umich.edu"
-  facebook: polly
-  github: planetpolly
-  twitter: polly
+  rss: false
+  email: "panlei@utexas.edu"
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
